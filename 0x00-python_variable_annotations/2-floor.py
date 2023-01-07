@@ -1,13 +1,9 @@
 #!/usr/bin/env python3
+'''Task 2's module.
 '''
-This module contains the "floor" class
-'''
-import math
 
 
-
-def floor(n: float) -> int:
-
-     '''Computes the floor of a floating-point number.
-     '''The floor function'''
-     return math.floor((a)
+def floor(a: float) -> int:
+    '''Computes the floor of a floating-point number.
+    '''
+    return int(a)
