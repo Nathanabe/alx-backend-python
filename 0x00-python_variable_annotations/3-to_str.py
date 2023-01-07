@@ -1,6 +1,6 @@
-#!usr/bin/env python3
+#!/usr/bin/env python3
 '''Task 3's module.
-'''Basic annotations - to string.
+'''
 
 
 def to_str(n: float) -> str:
